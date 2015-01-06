@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_droid">Hello droid!</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="username_label">User Name</string>
+    <string name="username_input_hint">Enter your name</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="confirmation_label">Confirm Password</string>
+    <string name="confirmation_hint">Confirm your Password</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
